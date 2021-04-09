@@ -96,60 +96,98 @@
       "url": "../assets/img/video-detail-1.jpg"
     }
   ],
-  "video" : [
+  "video": [
     {
       "id": 1,
       "title": "Aenean aliquet sapien",
       "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-01.jpg",
-      "description":"Video thumbnail has a link to another HTML page. Categories do not need any JS. They are just separated HTML pages. Paging is at the bottom to extend the list as long as you want. This can be a large catalog."
+      "description": "Video thumbnail has a link to another HTML page. Categories do not need any JS. They are just separated HTML pages. Paging is at the bottom to extend the list as long as you want. This can be a large catalog."
     },
     {
       "id": 2,
       "title": "Mauris in odio vel odio",
       "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-02.jpg",
-      "description":"You may need TemplateMo for a quick chat or send an email if you have any question about this CSS template. font-family: 'Source Sans Pro', sans-serif; for this template."
+      "description": "You may need TemplateMo for a quick chat or send an email if you have any question about this CSS template. font-family: 'Source Sans Pro', sans-serif; for this template."
     },
     {
       "id": 3,
       "title": "Sagittis sodales enim",
       "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-03.jpg",
-      "description":"You are allowed to use this video catalog for your business websites. Please do not make a re-distribution of our template ZIP file on any template collection website."
+      "description": "You are allowed to use this video catalog for your business websites. Please do not make a re-distribution of our template ZIP file on any template collection website."
     },
     {
       "id": 4,
       "title": "Nam tincidunt consectetur",
       "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-04.jpg",
-      "description":"You can apply this template for your commercial CMS theme. Nam sem leo, imperdiet non lacinia eget, volutpat ac massa. Donec mattis in velit quis commodo. Cras nec rutrum arcu."
+      "description": "You can apply this template for your commercial CMS theme. Nam sem leo, imperdiet non lacinia eget, volutpat ac massa. Donec mattis in velit quis commodo. Cras nec rutrum arcu."
     },
     {
       "id": 5,
       "title": "Praesent posuere rhoncus",
       "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-05.jpg",
-      "description":"Duis vulputate nisl metus, eget dapibus nunc ultricies id. Ut augue mauris, varius quis nulla non, sollicitudin consectetur nisl. Donec eget arcu placerat, ullamcorper."
+      "description": "Duis vulputate nisl metus, eget dapibus nunc ultricies id. Ut augue mauris, varius quis nulla non, sollicitudin consectetur nisl. Donec eget arcu placerat, ullamcorper."
     },
     {
       "id": 6,
       "title": "Turpis massa aliquam",
       "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-06.jpg",
-      "description":"Duis vulputate nisl metus, eget dapibus nunc ultricies id. Ut augue mauris, varius quis nulla non, sollicitudin consectetur nisl. Donec eget arcu placerat, ullamcorper."
+      "description": "Duis vulputate nisl metus, eget dapibus nunc ultricies id. Ut augue mauris, varius quis nulla non, sollicitudin consectetur nisl. Donec eget arcu placerat, ullamcorper."
     },
     {
       "id": 7,
       "title": "Class aptent taciti sociosqu",
       "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-07.jpg",
-      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum orci sit amet dignissim rhoncus. Pellentesque pretium faucibus vestibulum."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum orci sit amet dignissim rhoncus. Pellentesque pretium faucibus vestibulum."
     },
     {
       "id": 8,
       "title": "Donec ac nisl ul elit",
       "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-08.jpg",
-      "description":"Suspendisse in odio congue, lobortis metus sed, venenatis nisl. In dapibus et massa feugiat facilisis. Maecenas venenatis aliquet nulla, a tincidunt erat suscipit eget."
+      "description": "Suspendisse in odio congue, lobortis metus sed, venenatis nisl. In dapibus et massa feugiat facilisis. Maecenas venenatis aliquet nulla, a tincidunt erat suscipit eget."
     },
     {
       "id": 9,
       "title": "Sed mattis nisi erat",
       "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-09.jpg",
-      "description":"Integer ultricies mi eu aliquet cursus. Nam sem leo, imperdiet non lacinia eget, volutpat ac massa. Donec mattis in velit quis commodo. Cras nec rutrum arcu."
+      "description": "Integer ultricies mi eu aliquet cursus. Nam sem leo, imperdiet non lacinia eget, volutpat ac massa. Donec mattis in velit quis commodo. Cras nec rutrum arcu."
+    }
+  ],
+  "catalog": [
+    {
+      "id": 1,
+      "title": "Aenean aliquet sapien",
+      "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-01.jpg",
+      "description": "Video thumbnail has a link to another HTML page. Categories do not need any JS. They are just separated HTML pages. Paging is at the bottom to extend the list as long as you want. This can be a large catalog."
+    },
+    {
+      "id": 2,
+      "title": "Mauris in odio vel odio",
+      "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-02.jpg",
+      "description": "You may need TemplateMo for a quick chat or send an email if you have any question about this CSS template. font-family: 'Source Sans Pro', sans-serif; for this template."
+    },
+    {
+      "id": 3,
+      "title": "Sagittis sodales enim",
+      "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-03.jpg",
+      "description": "You are allowed to use this video catalog for your business websites. Please do not make a re-distribution of our template ZIP file on any template collection website."
+    },
+    {
+      "id": 4,
+      "title": "Nam tincidunt consectetur",
+      "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-04.jpg",
+      "description": "You can apply this template for your commercial CMS theme. Nam sem leo, imperdiet non lacinia eget, volutpat ac massa. Donec mattis in velit quis commodo. Cras nec rutrum arcu."
+    },
+    {
+      "id": 5,
+      "title": "Praesent posuere rhoncus",
+      "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-05.jpg",
+      "description": "Duis vulputate nisl metus, eget dapibus nunc ultricies id. Ut augue mauris, varius quis nulla non, sollicitudin consectetur nisl. Donec eget arcu placerat, ullamcorper."
+    },
+    {
+      "id": 6,
+      "title": "Turpis massa aliquam",
+      "url": "https://raw.githubusercontent.com/AgustinaVivi/videoCatalogApi/main/img/tn-06.jpg",
+      "description": "Duis vulputate nisl metus, eget dapibus nunc ultricies id. Ut augue mauris, varius quis nulla non, sollicitudin consectetur nisl. Donec eget arcu placerat, ullamcorper."
     }
   ]
 }
